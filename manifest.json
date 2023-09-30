@@ -1,0 +1,9 @@
+{
+	"manifest_version": 3,
+	"name": "Edge Google Tab",
+	"version": "1.0",
+	"description": "Replaces new tab with Google while leaving typing in the URL bar",
+	"chrome_url_overrides": {
+		"newtab": "newtab.html"
+	}
+}
